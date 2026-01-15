@@ -1,0 +1,21 @@
+flight_number,airline,origin,destination,departure,status
+BA102,British Airways,London Heathrow (LHR),New York JFK (JFK),2025-10-14 18:30,On Time
+BA203,British Airways,London Heathrow (LHR),Dubai (DXB),2025-10-14 21:00,On Time
+EK202,Emirates,Dubai (DXB),New York JFK (JFK),2025-10-14 09:20,On Time
+EK404,Emirates,Dubai (DXB),Singapore (SIN),2025-10-14 13:15,On Time
+QR1,Qatar Airways,Doha (DOH),London Heathrow (LHR),2025-10-14 08:45,Delayed
+QR917,Qatar Airways,Doha (DOH),Sydney (SYD),2025-10-14 22:10,On Time
+SQ317,Singapore Airlines,London Heathrow (LHR),Singapore (SIN),2025-10-14 10:55,On Time
+SQ26,Singapore Airlines,Singapore (SIN),Frankfurt (FRA),2025-10-14 12:00,On Time
+AA100,American Airlines,New York JFK (JFK),Los Angeles (LAX),2025-10-14 11:45,On Time
+AA150,American Airlines,Miami (MIA),Chicago O’Hare (ORD),2025-10-14 13:10,Delayed
+UA945,United Airlines,Chicago O’Hare (ORD),London Heathrow (LHR),2025-10-14 17:00,On Time
+DL45,Delta Airlines,Atlanta (ATL),Paris (CDG),2025-10-14 19:10,On Time
+LH400,Lufthansa,Frankfurt (FRA),New York JFK (JFK),2025-10-14 10:00,On Time
+AF178,Air France,Paris (CDG),Los Angeles (LAX),2025-10-14 14:15,On Time
+CX255,Cathay Pacific,Hong Kong (HKG),London Heathrow (LHR),2025-10-14 22:25,Delayed
+NZ1,Air New Zealand,Auckland (AKL),Los Angeles (LAX),2025-10-14 20:00,On Time
+VA23,Virgin Australia,Sydney (SYD),Los Angeles (LAX),2025-10-14 09:45,On Time
+QF2,Qantas Airways,London Heathrow (LHR),Sydney (SYD),2025-10-14 21:00,On Time
+KL642,KLM,Amsterdam (AMS),New York JFK (JFK),2025-10-14 13:25,On Time
+EZY123,EasyJet,Manchester (MAN),Barcelona (BCN),2025-10-14 15:30,On Time
