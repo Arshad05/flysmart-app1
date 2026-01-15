@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.1",
+  "policy_model": "Prototype policy store. Carrier rules vary by airport/route/cabin. When a carrier is not listed, FlySmart uses a generic fallback policy clearly labelled as unverified.",
+  "fallback_policy": {
+    "check_in_open_hours_before": 24,
+    "check_in_close_minutes_before": 60,
+    "baggage_drop_close_minutes_before": 60,
+    "boarding_gate_close_minutes_before": 20,
+    "source_url": "",
+    "last_verified": "",
+    "notes": "Generic prototype defaults (unverified). Replace with airline-specific values when available."
+  },
+  "policies": {
+    "British Airways": {
+      "check_in_open_hours_before": 24,
+      "check_in_close_minutes_before": 60,
+      "baggage_drop_close_minutes_before": 45,
+      "boarding_gate_close_minutes_before": 20,
+      "source_url": "https://www.britishairways.com",
+      "last_verified": "",
+      "notes": "Prototype entry. Verify by route/airport."
+    },
+    "Emirates": {
+      "check_in_open_hours_before": 48,
+      "check_in_close_minutes_before": 90,
+      "baggage_drop_close_minutes_before": 60,
+      "boarding_gate_close_minutes_before": 20,
+      "source_url": "https://www.emirates.com",
+      "last_verified": "",
+      "notes": "Prototype entry. Verify by departure airport."
+    },
+    "Qatar Airways": {
+      "check_in_open_hours_before": 48,
+      "check_in_close_minutes_before": 60,
+      "baggage_drop_close_minutes_before": 60,
+      "boarding_gate_close_minutes_before": 20,
+      "source_url": "https://www.qatarairways.com",
+      "last_verified": "",
+      "notes": "Prototype entry. Verify by route/airport."
+    },
+    "Gulf Air": {
+      "check_in_open_hours_before": 48,
+      "check_in_close_minutes_before": 60,
+      "baggage_drop_close_minutes_before": 60,
+      "boarding_gate_close_minutes_before": 20,
+      "source_url": "https://www.gulfair.com",
+      "last_verified": "",
+      "notes": "Prototype entry. Verify by airport/route."
+    },
+    "Saudia": {
+      "check_in_open_hours_before": 24,
+      "check_in_close_minutes_before": 60,
+      "baggage_drop_close_minutes_before": 60,
+      "boarding_gate_close_minutes_before": 20,
+      "source_url": "https://www.saudia.com",
+      "last_verified": "",
+      "notes": "Prototype entry. Verify by route/airport."
+    }
+  }
+}
