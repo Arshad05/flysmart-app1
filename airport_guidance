@@ -1,0 +1,66 @@
+{
+  "LHR": {
+    "airport_name": "London Heathrow",
+    "guidance": [
+      "Major international hub; allow extra time for security and gate walking.",
+      "Terminal transfers can take time—confirm terminal before arriving.",
+      "Boarding gates may close early; plan to be at the gate ahead of time."
+    ]
+  },
+  "LGW": {
+    "airport_name": "London Gatwick",
+    "guidance": [
+      "Two terminals; confirm terminal details in advance.",
+      "Security can be busy at peak times; arrive early to reduce uncertainty."
+    ]
+  },
+  "STN": {
+    "airport_name": "London Stansted",
+    "guidance": [
+      "Security queues can vary; keep buffer time, especially during peak hours.",
+      "Walking distances can be longer than expected—arrive at the gate early."
+    ]
+  },
+  "JFK": {
+    "airport_name": "New York JFK",
+    "guidance": [
+      "Large multi-terminal airport; confirm terminal and allow time for transfers.",
+      "International processing and queues can be variable—arrive early."
+    ]
+  },
+  "DXB": {
+    "airport_name": "Dubai International",
+    "guidance": [
+      "Large airport with long walking distances; allow extra time to reach gates.",
+      "Terminal and gate information may change; re-check details regularly."
+    ]
+  },
+  "CDG": {
+    "airport_name": "Paris Charles de Gaulle",
+    "guidance": [
+      "Large airport with multiple terminals; confirm terminal and allow extra time.",
+      "Transfers and immigration steps may require additional buffer time."
+    ]
+  },
+  "AMS": {
+    "airport_name": "Amsterdam Schiphol",
+    "guidance": [
+      "Busy international hub; security and passport checks can vary by time of day.",
+      "Allow buffer time for long walks between gates."
+    ]
+  },
+  "SIN": {
+    "airport_name": "Singapore Changi",
+    "guidance": [
+      "Large airport; allow time for walking between areas and gates.",
+      "Re-check gate details closer to boarding."
+    ]
+  },
+  "DEFAULT": {
+    "airport_name": "Airport",
+    "guidance": [
+      "Arrive early to reduce risk from queues, walking distances, or last-minute changes.",
+      "Re-check gate/terminal details closer to departure time."
+    ]
+  }
+}
